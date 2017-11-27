@@ -68,7 +68,7 @@ print('My name is Ryan Walter')
 #   Let the computer do the arithmetic for you (no calculators!).
 #   You do NOT have to use strings for this, so no quotation marks!
 #
-#   TEST your code by re-running this module, then asking someone
+#   TEST your code by re-running this module, then asking someon
 #   whom you trust:  What number did your   print   display for TO DO 4?
 #   (HINT: It is an INTERESTING number.)  Get help if your value is wrong.
 #
